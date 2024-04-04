@@ -5,4 +5,4 @@ tachy06 = {'Technologies': ['Python', 'HTML5', 'CSS', 'JavaScript'],
 ```
 
 You can find me in🌎
-- [Twitter](https://twitter.com/TACHY_FPS)
+[![Twitter](static/twitter.png)](https://twitter.com/TACHY_FPS)
