@@ -6,7 +6,7 @@
 </h3>
 
 <p align=center>
-    「 I am a full stack web application developer from Bangladesh 」
+    「 I am a backend developer from Costa Rica 」
 </p>
 
 <br>
@@ -24,3 +24,12 @@
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
     </a> 
 </p>
+<br>
+# About me
+<p>
+    📧 &emsp; Text me anytime: kendallrodri1@gmail.com<br>
+    💬 &emsp; Ask me about anything [here](https://github.com/Tachy06/Tachy06/issues)
+</p>
+<br>
+<br>
+<br>
