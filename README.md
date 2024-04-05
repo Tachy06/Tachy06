@@ -24,12 +24,14 @@
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
     </a> 
 </p>
-<br>
+<br />
+<!-- About Section -->
 # About me
 <p>
-    📧 &emsp; Text me anytime: kendallrodri1@gmail.com<br>
-    💬 &emsp; Ask me about anything [here](https://github.com/Tachy06/Tachy06/issues)
+  
+ 📧 &emsp; Reach me anytime: kendallrodri1@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Tachy06/Tachy06/issues)
 </p>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
