@@ -26,7 +26,7 @@
 </p>
 <br />
 <!-- About Section -->
-# About me
+<h1>About me</h1>
 <p>
   
  📧 &emsp; Reach me anytime: kendallrodri1@gmail.com<br/><br/>
