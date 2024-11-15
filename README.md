@@ -56,4 +56,10 @@
     <a target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     </a>
+    <a target="_blank">
+    <img src="https://img.shields.io/badge/llama%20index-black?style=for-the-badge&logo=python"/>
+    </a>
+    <a target="_blank">
+    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+    </a>
 </p>
