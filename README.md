@@ -60,6 +60,6 @@
     <img src="https://img.shields.io/badge/llama%20index-black?style=for-the-badge&logo=python"/>
     </a>
     <a target="_blank">
-    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     </a>
 </p>
