@@ -62,4 +62,13 @@
     <a target="_blank">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     </a>
+    <a target="_blank">
+    <img src="https://img.shields.io/badge/env-black?style=for-the-badge&logo=.env"/>
+    </a>
+    <a target="_blank">
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c"/>
+    </a>
+    <a target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV"/>
+    </a>
 </p>
